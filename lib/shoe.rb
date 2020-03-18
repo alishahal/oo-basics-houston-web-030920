@@ -8,7 +8,7 @@ class Shoe
   end
   
    def turn_page
-     puts "Flipping the page...wow, you read fast!"
+     puts "Your shoe is as good as new!"
    end
      
 end
