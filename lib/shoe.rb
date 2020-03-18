@@ -3,8 +3,8 @@ class Shoe
   attr_accessor :brand, :color, :size
   attr_reader :material
   
-  def initialize(title)
-    @title = title
+  def initialize(brand)
+    @brand = brand
   end
   
    def turn_page
